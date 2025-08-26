@@ -1,4 +1,4 @@
-# Data Shredder – BYLICKILABS
+# Data Shredder
 
 **Secure deletion of files and folders** (Windows / Linux / macOS) using **multi-pass overwrite** strategies.  
 Light Tkinter GUI, full **EN/DE language toggle**, **CSV/JSON reports**, robust error handling.
