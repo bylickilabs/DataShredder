@@ -1,5 +1,8 @@
 # Data Shredder
 
+|<img width="1280" height="640" alt="shredder" src="https://github.com/user-attachments/assets/782d1f8f-6eb8-4c36-8002-cf4f3f67fa2d" />|
+|---|
+
 **Secure deletion of files and folders** (Windows / Linux / macOS) using **multi-pass overwrite** strategies.  
 Light Tkinter GUI, full **EN/DE language toggle**, **CSV/JSON reports**, robust error handling.
 
